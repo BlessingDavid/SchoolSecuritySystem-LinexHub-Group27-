@@ -1,0 +1,1 @@
+<div class="w3-green w3-container w3-padding-16" style="margin-top:75px;padding-right:58px;background-color:#79c879"><p class="w3-right">Powered by <a href="#" title="W3.CSS" target="_blank" class="w3-hover-opacity">School Security System</a></p></div>
